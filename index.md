@@ -1,15 +1,19 @@
 ## Michael.adame8@gmail.com | 8203 Aleppo Pine Ln, Cypress, Texas 77433 | Phone: 832.830.6756
+
 EDUCATION:
+
 University of Houston-Downtown, College of Business: Graduation date Fall 2019
 Bachelor of Business Administration in Management Information Systems (BBA MIS)
 Lone Star College, Cy fair: May 2013 Associate of Science (AS)
 Miller Career center, Katy: May 2010
 Digital Audio, Computer Maintenance, Cisco academy introduction to Networks: Certificate of completion
-TECHNICAL SKILLS:
+
+##TECHNICAL SKILLS:
 Familiar with Linux: Red Hat, Tails, Raspbian and command line environments. Knowledge of routing, switching, network
 applications and protocols. Completed projects utilizing Java, Python, and C++ within IDE’s: Visual Studio, Eclipse, Android
 Studio, and infrastructures within Azure, AWS.
-PROJECTS:
+
+##PROJECTS:
 Wifi traffic control Via linux:
 Utilizing a Raspberry PI 3 with Raspbian OS as a DNS sinkhole, protected devices on the network from unwanted content,
 by configuring the router’s DHCP options to force clients to use the RP3 as the DNS server. Written in Rust, The API
@@ -18,9 +22,11 @@ Image Classifier Application:
 Trained a TensorFlow model to classify cat images using Azure DSVM by Creating a Linux DSVM in Azure utilizing X2Go
 client. Trained MobileNet models within TensorFlow revoked via running a Python script. Using the Tkinter GUI framework
 with Python to pass images invoked via Visual Studios Integrated Terminal.
-ORGANIZATION:
+
+##ORGANIZATION:
 Student member within Association of Information Technology Professionals (AITP)
-EXPERIENCE:
+
+##EXPERIENCE:
 Nautica, Katy, TX Assistant Manager August 2014 – Present
 ● Partnered with Regional Manager over Texas district attending Dallas, Houston, and Katy areas to improve performance.
 ● Aided with relocating Dallas site, processed recruitment for Store Management and sales team.
