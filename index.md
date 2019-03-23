@@ -2,7 +2,7 @@
 
 ## Phone: 832.830.6756
 
-EDUCATION:
+## EDUCATION:
 
 University of Houston-Downtown, College of Business: Graduation date Fall 2019
 Bachelor of Business Administration in Management Information Systems (BBA MIS)
