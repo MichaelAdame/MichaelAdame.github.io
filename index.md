@@ -6,25 +6,38 @@
 
 University of Houston-Downtown, College of Business: Graduation date Fall 2019
 Bachelor of Business Administration in Management Information Systems (BBA MIS)
+
 Lone Star College, Cy fair: May 2013 Associate of Science (AS)
+
 Miller Career center, Katy: May 2010
 Digital Audio, Computer Maintenance, Cisco academy introduction to Networks: Certificate of completion
 
 ## TECHNICAL SKILLS:
 
-Familiar with Linux: Red Hat, Tails, Raspbian and command line environments. Knowledge of routing, switching, network
-applications and protocols. Completed projects utilizing Java, Python, and C++ within IDE’s: Visual Studio, Eclipse, Android
+Familiar with Linux: Red Hat, Tails, Raspbian and command line environments. 
+
+Knowledge of routing, switching, network applications and protocols. 
+
+Completed projects utilizing Java, Python, and C++ within IDE’s: Visual Studio, Eclipse, Android
 Studio, and infrastructures within Azure, AWS.
 
 ## PROJECTS:
 
-Wifi traffic control Via linux:
+# Wifi traffic control Via linux:
+
 Utilizing a Raspberry PI 3 with Raspbian OS as a DNS sinkhole, protected devices on the network from unwanted content,
-by configuring the router’s DHCP options to force clients to use the RP3 as the DNS server. Written in Rust, The API
-exposed a RESTful HTTP API which was used by the web interface providing a more intuitive interface to monitor traffic.
-Image Classifier Application:
+by configuring the router’s DHCP options to force clients to use the RP3 as the DNS server. 
+
+Written in Rust, The API exposed a RESTful HTTP API which was used by the web interface providing a more intuitive interface to monitor traffic.
+
+# Image Classifier Application:
+
 Trained a TensorFlow model to classify cat images using Azure DSVM by Creating a Linux DSVM in Azure utilizing X2Go
-client. Trained MobileNet models within TensorFlow revoked via running a Python script. Using the Tkinter GUI framework
+client. 
+
+Trained MobileNet models within TensorFlow revoked via running a Python script. 
+
+Using the Tkinter GUI framework
 with Python to pass images invoked via Visual Studios Integrated Terminal.
 
 ## ORGANIZATION:
