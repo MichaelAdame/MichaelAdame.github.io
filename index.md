@@ -1,4 +1,6 @@
-## Michael.adame8@gmail.com | 8203 Aleppo Pine Ln, Cypress, Texas 77433 | Phone: 832.830.6756
+## Michael.adame8@gmail.com  
+
+## Phone: 832.830.6756
 
 EDUCATION:
 
