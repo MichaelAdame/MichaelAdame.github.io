@@ -23,14 +23,14 @@ Studio, and infrastructures within Azure, AWS.
 
 ## PROJECTS:
 
-# Wifi traffic control Via linux:
+Wifi traffic control Via linux:
 
 Utilizing a Raspberry PI 3 with Raspbian OS as a DNS sinkhole, protected devices on the network from unwanted content,
 by configuring the router’s DHCP options to force clients to use the RP3 as the DNS server. 
 
 Written in Rust, The API exposed a RESTful HTTP API which was used by the web interface providing a more intuitive interface to monitor traffic.
 
-# Image Classifier Application:
+Image Classifier Application:
 
 Trained a TensorFlow model to classify cat images using Azure DSVM by Creating a Linux DSVM in Azure utilizing X2Go
 client. 
