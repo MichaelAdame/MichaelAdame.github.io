@@ -30,15 +30,13 @@ by configuring the router’s DHCP options to force clients to use the RP3 as th
 
 Written in Rust, The API exposed a RESTful HTTP API which was used by the web interface providing a more intuitive interface to monitor traffic.
 
-Image Classifier Application:
+[Image Classifier Application] (https://michaeladame.github.io/Deep-Learning-Image-Recog/):
 
-Trained a TensorFlow model to classify cat images using Azure DSVM by Creating a Linux DSVM in Azure utilizing X2Go
-client. 
+![Image](https://www.linkedin.com/media-proxy/ext?w=1200&h=675&hash=GmrkSYGf%2BDU%2BymtIeB%2FvgI89h4U%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-nWS2t-tOfZnXhfsfZZLSiolQVcSgClgE1eu-hQDDjEo69LcLmY4Yx3A)
 
-Trained MobileNet models within TensorFlow revoked via running a Python script. 
+A deep neural network that can recognize objects in photographs.
+Adjust state-of-the-art deep neural networks to recognize new objects, without the need to retrain the network.
 
-Using the Tkinter GUI framework
-with Python to pass images invoked via Visual Studios Integrated Terminal.
 
 ## ORGANIZATION:
 
